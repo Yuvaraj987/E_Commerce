@@ -1,4 +1,4 @@
-# E_Commerce
+# E_Commerce Website
 
 Welcome to the **E_Commerce** repository! This project is designed to provide a robust foundation for building scalable and feature-rich e-commerce applications.
 
